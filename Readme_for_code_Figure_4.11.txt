@@ -16,7 +16,8 @@
 
 # - Code functionality: The Jupyter Notebook figure4.11.ipynb computes the AR6 WG1 assessed GSAT projections and figure 4.11.
 
-# - Input data: AR6 WG1 assessed ERF, constrained CMIP6 projections according to the papers cited in the report (Liang et. al 2020, Ribes et al. 2021, Tokarska et al. 2020). All input and final data is distributed with the code and they have been archived by DKRZ and made available here: https://www.wdc-climate.de/ui/entry?acronym=IPCC-DDC_AR6_Sup_GSATPr.
+# - Input data: AR6 WG1 assessed ERF, constrained CMIP6 projections according to the papers cited in the report (Liang et. al 2020, Ribes et al. 2021, Tokarska et al. 2020). 
+    All input and final data is distributed with the code and they have been archived by DKRZ and made available here: https://www.wdc-climate.de/ui/entry?acronym=IPCC-DDC_AR6_Sup_GSATPr.
 
 # - Output variables: The code plots the figure as in the report. The code can optionally produce the assessed GSAT projections (5%, central estimate, 95%) as NetCDF files.
 
